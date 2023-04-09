@@ -1,0 +1,43 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    margin: 0px;
+    
+}
+.header {
+    display: flex;
+    justify-content: space-between;
+    background: linear-gradient(90deg, #c469e6 1.18%, #e5c0f3 100%);
+    padding: 20px;
+   
+    height: 65px;
+    align-items: center;
+    font-size: 20.75px;
+    
+    
+}
+.logo-head{
+    display: flex;
+    align-items: center;
+}
+.header h3{
+    color: white;
+    
+}
+.trollFaceLogo{
+height: 40px;
+width: 40px;
+margin-right: 5px;
+}
+
+.header div a{
+    padding-right: 20px;
+    text-decoration: none;
+    align-items: center;
+    
+}
+a:hover{
+    color: white;
+}
+
