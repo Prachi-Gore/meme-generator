@@ -7,7 +7,7 @@
  <li>ReactJs</li>
  </ul>
  
-<h3>Do you want to try it ? Here is the <a href="https://prachigore29.shinyapps.io/Finance_Calculator/">meme's generator</a></h3>
+<h3>Do you want to try it ? Here is the <a href="https://generate-funny-meme.netlify.app/">meme's generator</a></h3>
 <p>Don't forget to ⭐ if you like it</p>
 
 <h3>Thank You !</h3>
